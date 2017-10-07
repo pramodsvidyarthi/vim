@@ -5,6 +5,7 @@ syntax on
 " line numbers and colored column not to go too far right
 set lines=35 columns=150
 set colorcolumn=120
+let g:solarized_termcolors=256
 
 " menlo font
 set guifont=Menlo\ Regular:h18
